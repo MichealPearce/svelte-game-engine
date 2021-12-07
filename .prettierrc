@@ -1,0 +1,8 @@
+{
+	"useTabs": true,
+	"arrowParens": "avoid",
+	"svelteSortOrder": "scripts-options-markup-styles",
+	"semi": false,
+	"svelteIndentScriptAndStyle": false,
+	"svelteStrictMode": false
+}
